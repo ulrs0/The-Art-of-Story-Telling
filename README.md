@@ -6,3 +6,10 @@
    `pip install -r requirements`
 2. You may need to upgrade the TTS library
    `pip install -U TTS`
+3. Run the server using
+   `uvicorn server:app`
+
+### 2. Running the Client
+1. In the config.js file in the directory client/src change the API endpoint for the server
+2. Install the dependencies `npm install`
+3. Start the client `npm start`
