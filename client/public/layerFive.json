@@ -1,0 +1,47 @@
+{
+    "Unrecognized Arrival": {
+        "description": "Hero Isn't Recognized",
+        "example": "Simba disguises himself after returning to Pride Rick because he was afraid of the responsibilities of being the new leader.",
+        "question": "The main character hides their identity or is not recognized after returning home. Why is this?"
+    },
+    "Unfounded Claims": {
+        "description": "A False Hero Appears",
+        "example": "Cinderella's sisters try to fit their feet in the glass slipper to pretend to be her and marry the prince.",
+        "question": "Someone else tries to take credit for the main character's actions. Who pretends to be the main character?"
+    },
+    "Difficult Task": {
+        "description": "Hero is Given a Hard Task",
+        "example": "Mario is given the difficult task of defeating of defeating Bowser to save Luigi.",
+        "question": "The main character is given a difficult task to solve. What hard job is given to them?"
+    },
+    "Solution": {
+        "description": "Hero Solves the Task",
+        "example": "Mario and Luigi use the power of the star to fight Bowser together and defeat him.",
+        "question": "How does the main character complete the hard task?"
+    },
+    "Recognition": {
+        "description": "Is Recognized",
+        "example": "Cinderella is recognized when she tries on the glass slipper and it fits, proving her identity.",
+        "question": "The main character is finally recognized and their actions acknowledged. How did everyone finally recognize them?"
+    },
+    "Exposure": {
+        "description": "False Hero is Exposed",
+        "example": "Tighten pretends to be a hero but is exposed as he begins terrorizing the city and must be defeated by Megamind.",
+        "question": "Someone took credit for the main character's actions. How did everyone find out they were pretending?"
+    },
+    "Transfiguration": {
+        "description": "Hero is Rewarded",
+        "example": "Rapunzel is able to save Flynn's life, despite having lost her ability to heal.",
+        "question": "What special change happens or reward is the main character given at the end?"
+    },
+    "Punishment": {
+        "description": "Villain is Punished",
+        "example": "Gothel ages really quickly, becoming an old lady within seconds.",
+        "question": "How is the bad person punished?"
+    },
+    "Wedding": {
+        "description": "Hero's Happy Ending",
+        "example": "Rapunzel is reunited with her real parents and marries Flynn.",
+        "question": "What is the main character's happy ending like?"
+    }
+}

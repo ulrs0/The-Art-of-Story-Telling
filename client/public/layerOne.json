@@ -1,0 +1,37 @@
+{
+    "Absentation": {
+        "description": "Someone Goes Missing",
+        "example": "Ana's sister Elsa, who has magical powers, freezes her kingdom accidentally and runs away to the mountains.",
+        "question": "Someone important, like a parent or friend, goes away somewhere. What happens to them?"
+    },
+    "Interdiction": {
+        "description": "A Warning is Given ",
+        "example": "Simba the lion gets a warning from his father about not going to the Elephant Graveyard.",
+        "question": "What warning does the main character recieve about something bad happening?"
+    },
+    "Violation": {
+        "description": "Warning is Ignored",
+        "example": "Simba goes to the Elephant Graveyard and is trapped by the hyenas working for Scar.",
+        "question": "What happens when the main character ignores the warning?"
+    },
+    "Reconnaissance": {
+        "description": "The Villain Spies",
+        "example": "Using his advanced surveillance technology, Syndrome, the villain, discovers Mr. Incredible's secret identity as Bob Parr, a retired superhero living a quiet suburban life.",
+        "question": "How does the bad person find out secret information about the main character?"
+    },
+    "Delivery": {
+        "description": "The Villain Discovers",
+        "example": "Syndrome lures Bob into a trap, using his knowledge of Mr. Incredible's family and identity to threaten them and further his plan to eliminate all superheroes.",
+        "question": "What does the bad person do after finding out the main character's secret?"
+    },
+    "Trickery": {
+        "description": "The Villain tries to Fool",
+        "example": "Syndrome fools Mr. Incredible by pretending to be a superhero.",
+        "question": "Who does the bad person try to trick?"
+    },
+    "Complicity": {
+        "description": "They Are Tricked",
+        "example": "Mr. Incredible gets fooled by Syndrome in The Incredibles because he initially believes that Syndrome is part of a legitimate organization hiring him for secret superhero missions.",
+        "question": "How does the tricked person get fooled by the bad person?"
+    }
+}

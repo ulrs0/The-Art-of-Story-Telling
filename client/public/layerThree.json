@@ -1,0 +1,22 @@
+{
+    "Guidance": {
+        "description": "Hero Reaches the Destination",
+        "example": "Moana goes to the island of Te' Fiti.",
+        "question": "Where does the main character go to on their adventure?"
+    },
+    "Struggle": {
+        "description": "Fights the Villain",
+        "example": "Simba and Scar fight on Pride Rock. Scar tries to distract Simba by telling the truth about Mufasa's death, but fails and is thrown off the cliff by Simba.",
+        "question": "What happens in the fight between the main caharcter and the bad person?"
+    },
+    "Branding, Marking": {
+        "description": "Powers Up",
+        "example": "Spiderman gets the senses and abilities of a spider that let him climb walls and sense danger. ",
+        "question": "What special power does the main character get?"
+    },
+    "Victory": {
+        "description": "Defeats the Villain",
+        "example": "Po is immune to Tai Lung's nerve attack and defeats him using Kung Fu. ",
+        "question": "How does the main character win the fight?"
+    }
+}

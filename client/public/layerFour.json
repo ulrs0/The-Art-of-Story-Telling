@@ -1,0 +1,22 @@
+{
+    "Liquidation of Lack": {
+        "description": "Hero Solves the Problem",
+        "example": "Ana's final act of love to save Elsa helps her to control her powers and unfreeze Arendelle.",
+        "question": "The main character went on the adventure to help their family and friends. How do they solve the problem they set out to fix?"
+    },
+    "Return": {
+        "description": "Goes Home",
+        "example": "Mulan travels back to her village on her horse with Mushu and Cricket.",
+        "question": "How does the main character return home from their adventure?"
+    },
+    "Pursuit": {
+        "description": "Is Followed",
+        "example": "Hans pretends to help Ana but then locks her in a room to stop her from saving Elsa.",
+        "question": "Someone tries to capture the main character. How do they follow and try to catch the main character?"
+    },
+    "Rescue": {
+        "description": "Escapes",
+        "example": "Ana, who was locked up by Hans, is helped by Olaf and Sven and manages to escape.",
+        "question": "How does the main character escape from the person trying to capture them? "
+    }
+}

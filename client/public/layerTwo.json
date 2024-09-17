@@ -1,0 +1,42 @@
+{
+    "Villainy": {
+        "description": "The Villain Harms Someone",
+        "example": "Hans tries to kill Ana's sister, Elsa.",
+        "question": "The bad person hurts someone important, like the main character's family or friend. What happens to them?"
+    },
+    "Lack": {
+        "description": "The Hero's Family Have a Problem",
+        "example": "Moana's people are experiencing food shortages. The crops are dying and fisherman are coming back empty handed.",
+        "question": "People important to the main character, like family or friends, are having a big and difficult problem. What problem do they have?"
+    },
+    "Mediation": {
+        "description": "Hero Finds Out",
+        "example": "The Moana finds out from her grandmother that this is happening because the ocean is unbalanced siunce Maui stole Te Fiti's heart.",
+        "question": "How does the main character find out about their problem?"
+    },
+    "Beginning Counteraction": {
+        "description": "Decides to Help",
+        "example": "Moana decides to find Maui and convince him return Te Fiti's heart.",
+        "question": "How does the main character decide to help them with their problem?"
+    },
+    "Departure": {
+        "description": "Goes on an Adventure",
+        "example": "Moana leaves her island for the first time and sails across the ocean to find Maui and return Te Fiti's heart.",
+        "question": "What adventure does the main character go on?"
+    },
+    "First Function of Donor": {
+        "description": "Is Tested",
+        "example": "The ocean and Maui give Moana various tests, including sailing through dangerous waters, facing pirates, and retrieving Maui's magical fishhook from the Realm of Monsters.",
+        "question": "Someone gives the main character tests and challenges on their adventure. What tests do they get?"
+    },
+    "The Hero's Reaction": {
+        "description": "Succeeds or Fails",
+        "example": "Moana solves these challenges with bravery and courage. With Maui’s help, she fights off the pirates and outsmarts the giant crab Tamatoa to retrieve the fishhook.",
+        "question": "The main character either solves or fails the tests. How do they deal with the challenges?"
+    },
+    "Acquisition of Magical Agent": {
+        "description": "Given a Reward",
+        "example": "Po receives the Dragon Scroll after learning Kung Fu to become the Dragon Warrior.",
+        "question": "What special or magical reward does the main character get for passing the tests?"
+    }
+}
