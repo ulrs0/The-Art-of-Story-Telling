@@ -9,7 +9,7 @@ function StoryPage({ storyString, storyName }) {
     const [videos, setVideos] = useState({});
     const [audioLoading, setAudioLoading] = useState(true);
     const [videoLoading, setVideoLoading] = useState(true);
-    const audioRef = useRef(null); // Reference to control the audio
+    const audioRef = useRef(null);
 
     useEffect(() => {
         const fetchStory = async () => {
@@ -106,13 +106,13 @@ function StoryPage({ storyString, storyName }) {
 
     const handleVideoPlay = () => {
         if (audioRef.current) {
-            audioRef.current.pause(); // Pause the narration when a video is played
+            audioRef.current.pause();
         }
     };
 
     const handleVideoPause = () => {
         if (audioRef.current) {
-            audioRef.current.play(); // Resume the narration when the video is paused or finished
+            audioRef.current.play();
         }
     };
 
@@ -130,14 +130,14 @@ function StoryPage({ storyString, storyName }) {
                                     controls
                                     width="600"
                                     src={videos[index]}
-                                    onPlay={handleVideoPlay} // Pause narration when video plays
-                                    onPause={handleVideoPause} // Resume narration when video is paused
-                                    onEnded={handleVideoPause} // Resume narration when video ends
+                                    onPlay={handleVideoPlay}
+                                    onPause={handleVideoPause}
+                                    onEnded={handleVideoPause}
                                 />
                             ) : (
                                 <div className="loading-container-video">
                                     <div className="spinner"></div>
-                                    <p>Loading Video...</p>
+                                    <p>Generating Animation...</p>
                                 </div>
                             )}
                         </div>
@@ -145,7 +145,7 @@ function StoryPage({ storyString, storyName }) {
                 ) : (
                     <div className="loading-container">
                         <div className="spinner"></div>
-                        <p>Loading Story...</p>
+                        <p>Generating Story...</p>
                     </div>
                 )}
             </div>
@@ -154,7 +154,7 @@ function StoryPage({ storyString, storyName }) {
                 <div className="audio-player">
                     <div className="loading-container">
                         <div className="spinner"></div>
-                        <p>Loading Audio...</p>
+                        <p>Generating Narration...</p>
                     </div>
                 </div>
             ) : (
